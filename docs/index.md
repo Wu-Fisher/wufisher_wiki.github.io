@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to My Wiki
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+![ME](img/logo.png)
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+这里是**wufisher**的<kbd>wiki</kbd>
 
-## Project layout
+记录了我的许多学习工作的文章
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+👉[my github](https://github.com/Wu-Fisher)
+
+~~欢迎来踩~~
+
+~~删除线~~
+
+🐎🐎🐎🐎
