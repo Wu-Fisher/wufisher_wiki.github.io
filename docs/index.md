@@ -9,8 +9,6 @@
 
 👉[my github](https://github.com/Wu-Fisher)
 
-~~欢迎来踩~~
-
-~~删除线~~
+<del>欢迎来踩</del>
 
 🐎🐎🐎🐎
