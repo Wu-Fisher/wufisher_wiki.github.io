@@ -7,7 +7,9 @@ theme:
 
 nav:
   - Home: index.md
-  - Blog: blog.md
+  - Blog: 
+    - Game:
+      - EldenRing: blog/game/eldenring.md
   - Leetcode:
     - chapter1: leetcode/recordBook_1.md
     - chapter2: leetcode/recordBook_2.md
