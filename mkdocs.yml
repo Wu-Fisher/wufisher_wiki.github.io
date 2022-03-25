@@ -13,6 +13,7 @@ nav:
   - Leetcode:
     - chapter1: leetcode/recordBook_1.md
     - chapter2: leetcode/recordBook_2.md
+    - chapter3(now): leetcode/recordBook_3.md
   - Book: book.md
   - Unix: unix.md
 

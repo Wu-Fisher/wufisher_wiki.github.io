@@ -462,8 +462,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#653" class="md-nav__link">
-    653.二叉树的坡度
+  <a href="#563" class="md-nav__link">
+    563.二叉树的坡度
   </a>
   
 </li>
@@ -1205,6 +1205,20 @@
 
             
           
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../recordBook_3/" class="md-nav__link">
+        chapter3(now)
+      </a>
+    </li>
+  
+
+            
+          
         </ul>
       </nav>
     </li>
@@ -1439,8 +1453,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#653" class="md-nav__link">
-    653.二叉树的坡度
+  <a href="#563" class="md-nav__link">
+    563.二叉树的坡度
   </a>
   
 </li>
@@ -2295,7 +2309,7 @@
 优化：利用变量记录当前已经匹配的字母，只用一个词频数组
 </code></pre></div>
 </td></tr></table>
-<h3 id="653">653.二叉树的坡度<a class="headerlink" href="#653" title="Permanent link">&para;</a></h3>
+<h3 id="563">563.二叉树的坡度<a class="headerlink" href="#563" title="Permanent link">&para;</a></h3>
 <table class="codehilitetable"><tr><td class="linenos"><div class="linenodiv"><pre><span class="normal">1</span></pre></div></td><td class="code"><div class="codehilite"><pre><span></span><code>递归遍历左右子树
 </code></pre></div>
 </td></tr></table>
@@ -3665,7 +3679,13 @@ dp2来保证了是选择昨天刚刚卖出的收益大，还是不卖收益大�
 <span class="normal">25</span>
 <span class="normal">26</span>
 <span class="normal">27</span>
-<span class="normal">28</span></pre></div></td><td class="code"><div class="codehilite"><pre><span></span><code>正权无向图求路径
+<span class="normal">28</span>
+<span class="normal">29</span>
+<span class="normal">30</span>
+<span class="normal">31</span></pre></div></td><td class="code"><div class="codehilite"><pre><span></span><code>链表法建图
+
+
+正权无向图求路径
 并且边的数量较少，所以我们可以用dij和优先堆优化来得到此段路径
 
 用两个数组dist1,dist2分别保存最短路径和严格次短路径。这里我们在一开始避免每次都开数组，直接static，然后每次重置
