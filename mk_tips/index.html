@@ -436,17 +436,20 @@
 
   <h1>Test</h1>
 
-<p>1.<del>删除线</del>使用 </p>
+<p>&lt;!-- 1.<del>删除线</del>使用 </p>
 <div class="highlight"><pre><span></span><code>&lt;del&gt; 删除线 &lt;/del&gt;
-</code></pre></div>
-<p>2.markdown snnipets 默认是关闭的
+``` --&gt;
+
+
+1.markdown snnipets 默认是关闭的
 打开的话在setting.json 里面加
-<div class="highlight"><pre><span></span><code><span class="p">{</span>
-    <span class="nt">&quot;[markdown]&quot;</span><span class="p">:</span> <span class="p">{</span>
-        <span class="nt">&quot;editor.quickSuggestions&quot;</span><span class="p">:</span> <span class="kc">true</span>
-    <span class="p">}</span>
-<span class="p">}</span>
-</code></pre></div></p>
+```json
+{
+    &quot;[markdown]&quot;: {
+        &quot;editor.quickSuggestions&quot;: true
+    }
+}
+</code></pre></div>
 
               
             </article>
